@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/About</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Writing</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>
